@@ -1,4 +1,10 @@
 # car_dekho_car_price_prediction_ML
+### Project Demonstration Links:
+- Part1-[https://drive.google.com/file/d/11uvtlwg1om4AK3xCQ0H8h2AL4QqdU_0X/view?usp=sharing]
+- Part2-[https://drive.google.com/file/d/1z5sZwL7u1jWrI6ZOENJDlg4ZwbrQjmPU/view?usp=sharing]
+- Part3-[https://drive.google.com/file/d/16QmoNPl07h3jWDxyI3FgJF-8x1_KljLo/view?usp=sharing]
+- Part4-[https://drive.google.com/file/d/1FHuj4ofMqHJryV-JRDnfSyOoYOBhItc5/view?usp=sharing]
+### Others
 - I have uploaded the ORIGINAL datasets, which is in a COMPLEX UNSTRUCTURED json_string format not suitable for ML.
 - Also the IPYNB notebooks in which I used various data manipulation and transformation techniques to build a more STRUCTURED and CLEANED datasets suitable for ML.
 - I have uploaded the ipynb notebooks today(13/2/2024) where I have built the ML models for five cities:
